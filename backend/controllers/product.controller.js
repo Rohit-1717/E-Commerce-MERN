@@ -1,4 +1,4 @@
-const Product = require("../modals/product.modal.js"); // Adjust path as needed
+const Product = require("../modals/product.modal.js"); 
 const ErrorHandler = require("../utils/errorHandler.js");
 const catchAsyncErrors = require("../middleware/catchAsyncErrors.middleware.js");
 
